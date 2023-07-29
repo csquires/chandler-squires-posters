@@ -8,4 +8,4 @@ This repository contains posters from public conferences.
 
 
 **2023**
-- [Linear Causal Disentanglement via Interventions](2023/linear-causal-disentanglement.pdf)
+- [Linear Causal Disentanglement via Interventions](2023/linear-causal-disentanglement.pdf) at [ICML 2023](https://icml.cc/virtual/2023/index.html)
